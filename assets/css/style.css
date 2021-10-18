@@ -33,7 +33,7 @@ Description: CV, Resume, vCard HTML Template
 
 body {
     color: #1a1a1a;
-    background-color: #5352d4;
+    background-color: #151212;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
 }
@@ -75,7 +75,7 @@ li {
     left: 0;
     height: 100%;
     width: 100%;
-    background: #0C0C0C;
+    background: #151212;
     z-index: 6;
     overflow: hidden;
 }
@@ -186,7 +186,7 @@ li {
 /*-----------------------------------------------------------------*/
 
 .header {
-    background: #5655da;
+    background: #151212;
     padding: 46px;
     position: fixed;
     height: 100%;
@@ -393,7 +393,7 @@ li {
 }
 
 .main-content p {
-    color: #2c2c2c;
+    color: #151212;
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
     font-weight: 300;
