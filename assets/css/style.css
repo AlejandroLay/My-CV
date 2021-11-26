@@ -33,7 +33,7 @@ Description: CV, Resume, vCard HTML Template
 
 body {
     color: #1a1a1a;
-    background-color: #151212;
+    background-color: #1a1a1a;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
 }
@@ -75,7 +75,7 @@ li {
     left: 0;
     height: 100%;
     width: 100%;
-    background: #151212;
+    background: #1a1a1a;
     z-index: 6;
     overflow: hidden;
 }
@@ -186,7 +186,7 @@ li {
 /*-----------------------------------------------------------------*/
 
 .header {
-    background: #151212;
+    background: #1a1a1a;
     padding: 46px;
     position: fixed;
     height: 100%;
@@ -310,7 +310,7 @@ li {
 /* === Mobile Menu Bar === */
 
 .header .mobile-bar {
-    background: rgba(12, 12, 12, 0.75);
+    background: #1a1a1a;
     color: #FFF;
     height: 60px;
     right: -59px;
@@ -345,7 +345,7 @@ li {
 }
 
 .header .bar.animate {
-    background: rgba(255, 255, 255, 0);
+    background: #1a1a1a;
 }
 
 .header .bar:before {
@@ -393,7 +393,7 @@ li {
 }
 
 .main-content p {
-    color: #151212;
+    color: #1a1a1a;
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -493,7 +493,7 @@ li {
     padding: 7px 0;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
-    color: #0C0C0C;
+    color: #1a1a1a;
     font-size: 14px;
 }
 
@@ -902,7 +902,7 @@ li {
     color: #555;
     background-color: #fff;
     background-image: none;
-    border-bottom: solid 1px #0C0C0C;
+    border-bottom: solid 1px #1a1a1a;
     border-top: 0;
     border-left: 0;
     border-right: 0;
