@@ -22,6 +22,9 @@ Description: CV, Resume, vCard HTML Template
 15. Responsive
 */
 
+::-webkit-scrollbar {
+    display: none;
+}
 
 /*-----------------------------------------------------------------*/
 

@@ -3,6 +3,10 @@
 *	v1.3.3
 */
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .owl-theme .owl-controls{
 	margin-top: 10px;
 	text-align: center;
